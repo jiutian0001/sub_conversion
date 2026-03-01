@@ -38,9 +38,7 @@
     </select>
 
     <label for="sources">源列表（每行一个）：</label>
-    <textarea id="sources" placeholder="vless://df15ce01-...#vless-44778
-vless://另一个...
-C:/Users/九天/Documents/Clash_1772355503.yaml"></textarea>
+    <textarea id="sources" placeholder=""></textarea>
 
     <label for="insert">Insert：</label>
     <select id="insert">
